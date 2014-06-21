@@ -2,7 +2,7 @@
 
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en-US"/>
-  <App xmlns="" ProductID="{42a38170-c664-4eee-b6ba-1f5ab911c551}" Title="Slack_WinPhone" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="Slack_WinPhone author" Description="Sample description" Publisher="Slack_WinPhone" PublisherID="{ae5044ce-3332-4833-a853-ca9e4c156b1f}">
+  <App xmlns="" ProductID="{42a38170-c664-4eee-b6ba-1f5ab911c551}" Title="Slack_Win81" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="Slack_WinPhone author" Description="Sample description" Publisher="Slack_WinPhone" PublisherID="{ae5044ce-3332-4833-a853-ca9e4c156b1f}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING"/>
@@ -15,12 +15,12 @@
       <DefaultTask  Name ="_default" NavigationPage="MainPage.xaml"/>
     </Tasks>
     <Tokens>
-      <PrimaryToken TokenID="Slack_WinPhoneToken" TaskName="_default">
+      <PrimaryToken TokenID="Slack_Win81Token" TaskName="_default">
         <TemplateFlip>
           <SmallImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileSmall.png</SmallImageURI>
           <Count>0</Count>
           <BackgroundImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileMedium.png</BackgroundImageURI>
-          <Title>Slack_WinPhone</Title>
+          <Title>Slack_Win81</Title>
           <BackContent></BackContent>
           <BackBackgroundImageURI></BackBackgroundImageURI>
           <BackTitle></BackTitle>
