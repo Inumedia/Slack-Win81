@@ -1,6 +1,6 @@
-﻿using Slack_WinPhone.Resources;
+﻿using Slack_Win81.Resources;
 
-namespace Slack_WinPhone
+namespace Slack_Win81
 {
     /// <summary>
     /// Provides access to string resources.

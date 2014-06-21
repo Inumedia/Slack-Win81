@@ -6,9 +6,9 @@ using System.Windows.Markup;
 using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
-using Slack_WinPhone.Resources;
+using Slack_Win81.Resources;
 
-namespace Slack_WinPhone
+namespace Slack_Win81
 {
     public partial class App : Application
     {

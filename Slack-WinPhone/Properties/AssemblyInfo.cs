@@ -6,11 +6,11 @@ using System.Resources;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Slack_WinPhone")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Slack")]
+[assembly: AssemblyDescription("A native Slack client for Windows")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Slack_WinPhone")]
+[assembly: AssemblyCompany("Inumedia")]
+[assembly: AssemblyProduct("Slack Win8.1")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
