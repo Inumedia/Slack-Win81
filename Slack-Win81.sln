@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Phone
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slack-WinPhone", "Slack-WinPhone\Slack-WinPhone.csproj", "{42A38170-C664-4EEE-B6BA-1F5AB911C551}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slack-Win81", "Slack-Win81\Slack-Win81.csproj", "{42A38170-C664-4EEE-B6BA-1F5AB911C551}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
